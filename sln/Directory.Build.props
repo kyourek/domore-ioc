@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <PropertyGroup>
-        <Authors>Ken Yourek</Authors>
-        <Copyright>Copyright © Ken Yourek 2020</Copyright>
-        <VersionPrefix>0.1.0</VersionPrefix>
-        <VersionSuffix></VersionSuffix>
-        <AssemblyVersion>0.1.0</AssemblyVersion>
-        <InformationalVersion>0.1.0</InformationalVersion>
-        <FileVersion>0.1.0</FileVersion>
-        <PackageVersion>0.1.0</PackageVersion>
-        <PackageProjectUrl>https://github.com/kyourek/domore-ioc</PackageProjectUrl>
-        <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>https://github.com/kyourek/domore-ioc.git</RepositoryUrl>
-        <RepositoryBranch>main</RepositoryBranch>
-        <RepositoryCommit></RepositoryCommit>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-        <PackageTags>IoC</PackageTags>
-        <IncludeSymbols>true</IncludeSymbols>
-        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    </PropertyGroup>
+  <PropertyGroup>
+    <Authors>Ken Yourek</Authors>
+    <Copyright>Copyright © Ken Yourek 2020</Copyright>
+    <VersionPrefix>0.1.0.1</VersionPrefix>
+    <VersionSuffix></VersionSuffix>
+    <AssemblyVersion>0.1.0.1</AssemblyVersion>
+    <InformationalVersion>0.1.0.1</InformationalVersion>
+    <FileVersion>0.1.0.1</FileVersion>
+    <PackageVersion>0.1.0.1</PackageVersion>
+    <PackageProjectUrl>https://github.com/kyourek/domore-ioc</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/kyourek/domore-ioc.git</RepositoryUrl>
+    <RepositoryBranch>master</RepositoryBranch>
+    <RepositoryCommit>0a1338dcb23ad4122e130e9fdaad403a82863bf4</RepositoryCommit>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageTags>IoC</PackageTags>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
 </Project>
