@@ -3,17 +3,17 @@
   <PropertyGroup>
     <Authors>Ken Yourek</Authors>
     <Copyright>Copyright © Ken Yourek 2020</Copyright>
-    <VersionPrefix>0.1.0.1</VersionPrefix>
+    <VersionPrefix>0.1.0.2</VersionPrefix>
     <VersionSuffix></VersionSuffix>
-    <AssemblyVersion>0.1.0.1</AssemblyVersion>
-    <InformationalVersion>0.1.0.1</InformationalVersion>
-    <FileVersion>0.1.0.1</FileVersion>
-    <PackageVersion>0.1.0.1</PackageVersion>
+    <AssemblyVersion>0.1.0.2</AssemblyVersion>
+    <InformationalVersion>0.1.0.2</InformationalVersion>
+    <FileVersion>0.1.0.2</FileVersion>
+    <PackageVersion>0.1.0.2</PackageVersion>
     <PackageProjectUrl>https://github.com/kyourek/domore-ioc</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/kyourek/domore-ioc.git</RepositoryUrl>
     <RepositoryBranch>master</RepositoryBranch>
-    <RepositoryCommit>0a1338dcb23ad4122e130e9fdaad403a82863bf4</RepositoryCommit>
+    <RepositoryCommit>a5f44b1c0fa84465017b6069c720a96b8f333038</RepositoryCommit>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>IoC</PackageTags>
